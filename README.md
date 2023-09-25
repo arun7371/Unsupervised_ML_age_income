@@ -1,2 +1,2 @@
 # Unsupervised_AIML_age_income
-Used K-means Clustring
+Used K-means clustering to the relationship between age and income from an unlabeled data frame.
